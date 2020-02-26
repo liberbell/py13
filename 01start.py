@@ -1,4 +1,4 @@
-isRaining = Ture
+isRaining = True
 isSunny = False
 
 if isRaining and isSunny:

@@ -1,5 +1,5 @@
 isRaining = True
-isSunny = True
+isSunny = False
 
 if isRaining and isSunny:
     print("We might see a Rainbow. ")

@@ -10,7 +10,7 @@ if isRaining or isSunny:
 if not isRaining:
     print("It must be raining.")
 
-ages = [12, 18, 28, 39, 87, 7, 2]
+ages = [12, 18, 28, 39, 87, 7, 2, 40, 16]
 for age in ages:
     isAdult = age > 17;
     if not isAdult:

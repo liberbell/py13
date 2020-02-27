@@ -15,3 +15,5 @@ if mouse < kitten and mouse < tiger:
     print("The mouse weights the least ")
 
 print(False > True)
+
+print("Jenniffer" > "Jenny")

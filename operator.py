@@ -8,4 +8,4 @@ kitten = 10
 tiger = 75
 
 if kitten < tiger:
-    ("The kitten weight less than tiger.")
+    print("The kitten weight less than tiger.")

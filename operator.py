@@ -9,3 +9,7 @@ tiger = 75
 
 if kitten < tiger:
     print("The kitten weight less than tiger.")
+
+mouse = 1
+if mouse < kitten and mouse < tiger:
+    print("The mouse weights the least ")

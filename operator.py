@@ -17,3 +17,5 @@ if mouse < kitten and mouse < tiger:
 print(False > True)
 
 print("Jenniffer" > "Jenny")
+
+print('a' <= 'b')

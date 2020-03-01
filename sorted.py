@@ -7,3 +7,4 @@ print(sorted(children))
 print(sorted(["Sue", "jerry", "linda"]))
 
 print(sorted("My favorite friend is Linda".split(), key=str.upper))
+print(sorted(pointInGame, reverse=True))

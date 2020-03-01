@@ -11,3 +11,6 @@ print(round(google))
 
 distanceAway = -13
 print(abs(distanceAway))
+
+lengthOfRootInGround = -2.5
+print(abs(lengthOfRootInGround))

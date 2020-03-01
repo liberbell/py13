@@ -4,3 +4,4 @@ print(sortedGame)
 
 children = ["Sue", "Jerry", "Linda"]
 print(sorted(children))
+print(sorted(["Sue", "jerry", "linda"]))

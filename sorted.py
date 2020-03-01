@@ -10,4 +10,4 @@ print(sorted("My favorite friend is Linda".split(), key=str.upper))
 print(sorted(pointInGame, reverse=True))
 
 leaderBoard = {211: "CKL", 134: "DIE", 331: "JFK"}
-print(sorted(leaderBoard))
+print(sorted(leaderBoard, reverse=True))

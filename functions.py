@@ -3,3 +3,12 @@ print(type(r))
 print(type(10))
 print(type('a'))
 print(type("Hi there"))
+
+class Car:
+    pass
+
+class Truck(Car):
+    pass
+
+c = Car()
+t = Truck()

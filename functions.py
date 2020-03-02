@@ -12,3 +12,5 @@ class Truck(Car):
 
 c = Car()
 t = Truck()
+print(type(c))
+print(type(t))

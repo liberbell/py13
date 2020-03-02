@@ -11,3 +11,4 @@ print(sorted(pointInGame, reverse=True))
 
 leaderBoard = {211: "CKL", 134: "DIE", 331: "JFK"}
 print(sorted(leaderBoard, reverse=True))
+print(leaderBoard.get(134))

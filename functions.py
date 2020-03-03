@@ -19,3 +19,5 @@ print(type(c) == type(t))
 print(type(c) == type(convert))
 
 print(isinstance(c, Car))
+print(isinstance(t, Car))
+print(isinstance(t, Truck))

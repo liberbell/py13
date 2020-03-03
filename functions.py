@@ -7,7 +7,7 @@ print(type("Hi there"))
 class Car:
     pass
 
-class Truck(Car):
+class Truck():
     pass
 
 c = Car()
@@ -21,3 +21,6 @@ print(type(c) == type(convert))
 print(isinstance(c, Car))
 print(isinstance(t, Car))
 print(isinstance(t, Truck))
+
+if isinstance(r, range):
+    print(list(r))

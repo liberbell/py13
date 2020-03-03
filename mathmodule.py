@@ -16,3 +16,7 @@ candy = 7
 
 print(math.ceil(cookies))
 print(math.ceil(candy))
+
+age = 47.9
+otherage = 47
+print(math.floor(age))

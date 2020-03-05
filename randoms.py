@@ -9,3 +9,5 @@ if decider == 0:
     print("HEADS")
 else:
     print("TAILS")
+
+print(random.random(1, 7))

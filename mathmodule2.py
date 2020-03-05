@@ -8,3 +8,6 @@ print(math.gcd(8, 52))
 
 print(8/52)
 print(2/13)
+
+print(math.radians(360))
+# print(math.)

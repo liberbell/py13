@@ -10,4 +10,4 @@ if decider == 0:
 else:
     print("TAILS")
 
-print(random.random(1, 7))
+print(random.randrange(1, 7))

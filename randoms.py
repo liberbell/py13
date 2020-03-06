@@ -18,3 +18,7 @@ print("Lottery Winner is " + str(lotteryWinner))
 
 possiblePets = ["cat", "dog", "fish"]
 print(random.choice(possiblePets))
+
+cards = ["Jack", "Queen", "King", "Ace", "Joker"]
+random.shuffle(cards)
+print(cards)

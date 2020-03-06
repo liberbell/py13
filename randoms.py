@@ -11,3 +11,4 @@ else:
     print("TAILS")
 
 print(random.randrange(1, 7))
+print("You rolled a " + random.randrange(1, 7))

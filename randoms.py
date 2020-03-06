@@ -12,3 +12,6 @@ else:
 
 print(random.randrange(1, 7))
 print("You rolled a " + str(random.randrange(1, 7)))
+
+lotteryWinner = random.sample(range(100), 5)
+print("Lottery Winner is " + str(lotteryWinner))

@@ -12,4 +12,4 @@ print(sorted(agesData))
 print(statistics.variance(agesData))
 print(statistics.stdev(agesData))
 
-print(math.statistics.variance(agesData))
+print(math.sqrt(statistics.variance(agesData)))

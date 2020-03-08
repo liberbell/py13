@@ -13,4 +13,4 @@ for c in itertools.cycle("RACECAR"):
     if x > 41:
         break
 
-print(math.pi())
+print(math.pi)

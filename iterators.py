@@ -1,4 +1,5 @@
 import itertools
+import math
 
 # for x in itertools.count(50, 5):
 #     print(x)
@@ -11,3 +12,5 @@ for c in itertools.cycle("RACECAR"):
     x = x + 1
     if x > 41:
         break
+
+print(math.pi())

@@ -9,5 +9,5 @@ x = 0
 for c in itertools.cycle("RACECAR"):
     print(c)
     x = x + 1
-    if x > 50:
+    if x > 40:
         break

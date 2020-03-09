@@ -13,3 +13,5 @@ print(statistics.variance(agesData))
 print(statistics.stdev(agesData))
 
 print(math.sqrt(statistics.variance(agesData)))
+
+print(sorted(agesData), reverse=True)

@@ -8,6 +8,7 @@ firstname.__len__()
 
 ages = [0, 11, 22, 45, 87, 4]
 print(len(ages))
+print(sorted(ages))
 
 i = 0
 for i in range(0, len(ages)):

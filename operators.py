@@ -19,3 +19,5 @@ print(False > True)
 print("Jenniffer" > "Jenny")
 
 print('a' <= 'b')
+
+print(a<b)

@@ -7,3 +7,6 @@ for c in list(numberscontestants):
 
 luckywinners = range(7, 30, 5)
 print(list(luckywinners))
+
+ranges = range(100)
+print(ranges)

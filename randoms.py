@@ -22,3 +22,6 @@ print(random.choice(possiblePets))
 cards = ["Jack", "Queen", "King", "Ace", "Joker"]
 random.shuffle(cards)
 print(cards)
+
+rannum = random.randrange(1, 100)
+print(rannum)
